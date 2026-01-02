@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/d6160e7d-52ce-4d4e-ae52-41710bb968f2
+https://github.com/user-attachments/assets/bcc00cae-ccb9-477d-bea1-412de0d7784d
 ## Initial Setup
 This repository contains both the code for the Pi to run and the gerber file for the LED Matrix PCB. You may safely delete PCB.zip after uploading it to a fabrication service such as PCBWay or JLCPCB. In case you need the information, the dimensions for the board are 41.5x55mm.
 
