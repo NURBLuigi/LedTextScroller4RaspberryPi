@@ -5,12 +5,12 @@ This repository contains both the code for the Pi to run and the gerber file for
 ## Hardware
 This project requires the following components:
 
-| Component              | Quantity |
-|-----------------------:|----------|
-|3mm 3v LED              |        25|
-|NPN Transistor*         |         5|
-|1K Ohm Resistor         |         5|
-|Male-Female Jumper Wires|        11|
+| Component              | Qty. |
+|-----------------------:|------|
+|3mm 3v LED              |    25|
+|NPN Transistor*         |     5|
+|1K Ohm Resistor         |     5|
+|Male-Female Jumper Wires|    11|
 
 *Any BJT such as 2N2222 or 2N3904 should do the trick
 
