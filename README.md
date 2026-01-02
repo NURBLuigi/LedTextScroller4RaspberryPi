@@ -1,4 +1,4 @@
-![RPI-LedPanelDisplay](https://github.com/user-attachments/assets/d755136f-aa6c-4ffd-9e4c-3f4f46467478)
+https://github.com/user-attachments/assets/d6160e7d-52ce-4d4e-ae52-41710bb968f2
 ## Initial Setup
 This repository contains both the code for the Pi to run and the gerber file for the LED Matrix PCB. You may safely delete PCB.zip after uploading it to a fabrication service such as PCBWay or JLCPCB. In case you need the information, the dimensions for the board are 41.5x55mm.
 
