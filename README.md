@@ -31,9 +31,10 @@ Now that you have successfully soldered the components to the PCB and connected 
 If you haven't already cloned this repository on your Raspberry Pi, now is the time to do so.
 ```bash
 cd /path/to/LedTextScroller4RaspberryPi
+```
+```bash
 gcc -Wall -lwiringPi -o textWall.o textWall.c
 ```
-
 ### Usage
 In the same directory, run
 ```bash
